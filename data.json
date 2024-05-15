@@ -1,0 +1,47 @@
+[
+  {
+    "Picture": "sunset.jpg",
+    "Text": "Frilandsmuseet",
+    "TextColor": "fuchsia",
+    "TitleFont": "Comic Sans MS",
+    "Explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus dolor purus non enim. Dolor purus non enim praesent elementum facilisis leo vel fringilla.",
+    "Place": "Lyngby",
+    "Date": "Dato kommer"
+  },
+  {
+    "Picture": "smoke.jpg",
+    "Text": "Roskilde Festival",
+    "TextColor": "lime",
+    "TitleFont": "Verdana",
+    "Explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus dolor purus non enim. Dolor purus non enim praesent elementum facilisis leo vel fringilla.",
+    "Place": "Roskilde",
+    "Date": "Dato kommer"
+  },
+  {
+    "Picture": "crowdback.jpg",
+    "Text": "Midtfyns Festival",
+    "TextColor": "teal",
+    "TitleFont": "Luminari",
+    "Explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus dolor purus non enim. Dolor purus non enim praesent elementum facilisis leo vel fringilla.",
+    "Place": "Ringe",
+    "Date": "Dato kommer"
+  },
+  {
+    "Picture": "mobilpic.jpg",
+    "Text": "Smuk Festival",
+    "TextColor": "purple",
+    "TitleFont": "Comic Sans MS",
+    "Explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus dolor purus non enim. Dolor purus non enim praesent elementum facilisis leo vel fringilla.",
+    "Place": "Skanderborg",
+    "Date": "Dato kommer"
+  },
+  {
+    "Picture": "concert.jpg",
+    "Text": "Koncert",
+    "TextColor": "fuchsia",
+    "TitleFont": "Courier",
+    "Explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus dolor purus non enim. Dolor purus non enim praesent elementum facilisis leo vel fringilla.",
+    "Place": "Roskilde",
+    "Date": "Dato kommer"
+  }
+]
