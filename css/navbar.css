@@ -4,4 +4,7 @@ ul.nav.nav-pills.nav-fill.gap-2.p-1.small.shadow-sm {
     --bs-nav-link-hover-color: var(--bs-black);
     --bs-nav-pills-link-active-color: var(--bs-gray);
     --bs-nav-pills-link-active-bg: var(--bs-white);
+    font-size: 16px;
+    font-family: Verdana;
+    font-weight: bold;
 }
