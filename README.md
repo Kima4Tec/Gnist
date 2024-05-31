@@ -22,5 +22,3 @@
 |     3| Bootstrap  |
 |     4| JavaScript |
 </details>
-
-<details>
