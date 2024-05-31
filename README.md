@@ -10,15 +10,3 @@
 <h4>🔭Et kulturprojekt under Atopos</h4>
 🔗https://www.atopos.dk/
 
-<h1>
-</h1>
-<details>
-<summary>Anvendt til opbygning af siden</summary>
-
-| Rank | Sprog      |
-|-----:|------------|
-|     1| C#         |
-|     2| HTML, CSS  |
-|     3| Bootstrap  |
-|     4| JavaScript |
-</details>
