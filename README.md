@@ -7,7 +7,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" / width=60px">
 </span>
 
-<h4>🔭En hjemmeside for et kulturprojekt under Atopos</h4>
+<h4>🔭Et kulturprojekt under Atopos</h4>
 🔗https://www.atopos.dk/
 
 <h1>
